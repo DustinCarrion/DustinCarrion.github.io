@@ -1,1 +1,10 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# 🌐 Personal Website
+ 
+The live site is automatically rebuilt whenever files on this branch are pushed.
+
+🔗 **URL:** https://dustincarrion.github.io
+
+
+## Acknowledgements
+
+This webpage is adapted from <a  href="https://jonbarron.info/">Jon Barron's website</a>.
